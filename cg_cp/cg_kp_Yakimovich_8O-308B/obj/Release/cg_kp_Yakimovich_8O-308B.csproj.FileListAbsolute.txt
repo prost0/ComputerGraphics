@@ -1,0 +1,9 @@
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\obj\Release\cg_kp_Yakimovich_8O-308B.csprojResolveAssemblyReference.cache
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\obj\Release\cg_kp_Yakimovich_8O-308B.csproj.GenerateResource.Cache
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\obj\Release\Form1.resources
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\bin\Release\Якимович_Александр_8О308Б_Вариант_6.pdb
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\obj\Release\Якимович_Александр_8О308Б_Вариант_6.Properties.Resources.resources
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\obj\Release\Якимович_Александр_8О308Б_Вариант_6.pdb
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\bin\Release\Якимович_Александр_8О308Б_Вариант_6.exe.config
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\bin\Release\Якимович_Александр_8О308Б_Вариант_6.exe
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\К.Г. - Лаб. 3 - Герасименко. 8о-303Б\obj\Release\Якимович_Александр_8О308Б_Вариант_6.exe

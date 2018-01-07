@@ -1,0 +1,17 @@
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\obj\Debug\Form1.resources
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\obj\Debug\cg_kp_Yakimovich_8O-308B.csproj.GenerateResource.Cache
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\bin\Debug\Якимович_Александр_8О308Б_Вариант_5.exe.config
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\bin\Debug\Якимович_Александр_8О308Б_Вариант_5.exe
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\bin\Debug\Якимович_Александр_8О308Б_Вариант_5.pdb
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\obj\Debug\Якимович_Александр_8О308Б_Вариант_5.Properties.Resources.resources
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\obj\Debug\Якимович_Александр_8О308Б_Вариант_5.exe
+C:\Users\prost(polzovatel)\Desktop\Курсовая работа\cg_kp_Yakimovich_8O-308B\obj\Debug\Якимович_Александр_8О308Б_Вариант_5.pdb
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\bin\Debug\Якимович_Александр_8О308Б_Вариант_5.exe.config
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\obj\Debug\Якимович_Александр_8О308Б_Вариант_5.exe
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\obj\Debug\Якимович_Александр_8О308Б_Вариант_5.pdb
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\bin\Debug\Якимович_Александр_8О308Б_Вариант_5.exe
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\bin\Debug\Якимович_Александр_8О308Б_Вариант_5.pdb
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\obj\Debug\cg_kp_Yakimovich_8O-308B.csprojResolveAssemblyReference.cache
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\obj\Debug\Form1.resources
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\obj\Debug\Якимович_Александр_8О308Б_Вариант_5.Properties.Resources.resources
+C:\Users\prost(polzovatel)\Desktop\cg_cp\cg_kp_Yakimovich_8O-308B\obj\Debug\cg_kp_Yakimovich_8O-308B.csproj.GenerateResource.Cache
